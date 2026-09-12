@@ -1,4 +1,4 @@
-#520zcyn
+#chapter 1
 print(260+260)
 print("ZCYN")
 print('hello '*3)
